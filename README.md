@@ -4,8 +4,8 @@
 
 This repository contains two major projects related to identifying Hybrid Renewable Energy Station (HRES) locations and building a cloud-based machine learning pipeline for optimal station placement.
 
-1. **Identifying Optimal Locations for HRES in Australia **: Utilises machine learning to analyse NASA datasets, comparing 41 different algorithms via LazyPredict, and recommending optimal HRES locations.
-2. **Cloud-Based ML Pipeline for Identifying HRES **: An end-to-end pipeline built using AWS SageMaker for data preprocessing, model training, evaluation, and deployment. The pipeline includes hyperparameter tuning, model evaluation, and automated workflows.
+1. **Identifying Optimal Locations for HRES in Australia**: Utilises machine learning to analyse NASA datasets, comparing 41 different algorithms via LazyPredict, and recommending optimal HRES locations.
+2. **Cloud-Based ML Pipeline for Identifying HRES**: An end-to-end pipeline built using AWS SageMaker for data preprocessing, model training, evaluation, and deployment. The pipeline includes hyperparameter tuning, model evaluation, and automated workflows.
 
 ## Table of Contents
 
