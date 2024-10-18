@@ -9,13 +9,12 @@ This repository contains two major projects related to identifying Hybrid Renewa
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Features](#features)
-- [Example](#example)
+- [Report](#report)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Details](#model-details)
 - [Performance](#performance)
-- [Contributors](#contributors)
 
 ## Introduction
 
