@@ -1,4 +1,4 @@
-# Hybrid Renewable Energy Station (HRES) Identification and Optimal Location Analysis
+# Optimal Locations for Hybrid Renewable Energy Station (HRES) Recommendation Analysis
 
 ## Overview
 
