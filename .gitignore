@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+Scripts/
+Lib/
+.ipynb_checkpoints/
+pyvenv.cfg
+.idea
