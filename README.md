@@ -13,7 +13,6 @@ This repository contains two major projects related to identifying Hybrid Renewa
 - [Features](#features)
 - [Report](#report)
 - [Installation](#installation)
-- [Model Details](#model-details)
 - [Performance](#performance)
 
 ## Introduction
@@ -39,14 +38,6 @@ For the detailed report on the analysis and recommendations, please refer to the
 ### Prerequisites
 
 Ensure you have Python 3.10 or above installed, and an active AWS account for running the SageMaker pipelines.
-
-
-## Model Details
-
-- **Model**: YOLOv11 (trained using custom dataset).
-- **Input Size**: 640 x 640 (configurable).
-- **Class Detected**: Tumor-Cell.
-- **Pre-trained Model**: The model uses pre-trained weights (`last.pt`).
 
 ## Performance
 
