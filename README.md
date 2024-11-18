@@ -33,11 +33,6 @@ For the detailed report on the analysis and recommendations, please refer to the
 
 [HRES Identification and Location Report](https://drive.google.com/file/d/1ZeGBPC8Dy49Ev_AhLAcX8QueEQ7QCtcM/view?usp=sharing)
 
-## Installation
-
-### Prerequisites
-
-Ensure you have Python 3.10 or above installed, and an active AWS account for running the SageMaker pipelines.
 
 ## Performance
 
